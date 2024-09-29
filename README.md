@@ -60,7 +60,7 @@ concrete information see ./LCENet/test.py, please
 </div>
 
 <div align="center">
-<img src="Test/Figs/comparative.png" />
+<img src="Test/Figs/comparative.png.png" />
 </div>
 
 <div align="center">
