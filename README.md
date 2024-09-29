@@ -1,6 +1,6 @@
 # LCENet
 
-👋 [GitHub Repo stars: https://github.com/Panpz202006/MSCNet/tree/xyq_branch]
+👋 [GitHub Repo stars: [https://github.com/Panpz202006/YONGQUAN-s-Work/tree/main](https://github.com/Panpz202006/YONGQUAN-s-Work/tree/main)]
 
 ## 1. Abstract:
 
@@ -60,15 +60,15 @@ concrete information see ./LCENet/test.py, please
 </div>
 
 <div align="center">
-<img src="LCENet/Figs/comparative.png" />
+<img src="Figs/comparative.png" />
 </div>
 
 <div align="center">
-<img src="LCENet/Figs/line.png" />
+<img src="Figs/line.png" />
 </div>
 
 <div align="center">
-<img src="LCENet/Figs/curve.png" />
+<img src="Figs/curve.png" />
 </div>
 
 ## 8. Acknowledgement:
