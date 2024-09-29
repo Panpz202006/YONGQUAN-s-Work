@@ -60,15 +60,15 @@ concrete information see ./LCENet/test.py, please
 </div>
 
 <div align="center">
-<img src="Figs/comparative.png" />
+<img src="Test/Figs/comparative.png" />
 </div>
 
 <div align="center">
-<img src="Figs/line.png" />
+<img src="Test/Figs/line.png" />
 </div>
 
 <div align="center">
-<img src="Figs/curve.png" />
+<img src="Test/Figs/curve.png" />
 </div>
 
 ## 8. Acknowledgement:
