@@ -55,17 +55,25 @@ concrete information see ./LCENet/test.py, please
   
 ## 7. Comparison With State of the Arts:
 
+-Performance comparison of the proposed method against the SOTA approaches on ISIC2017, ISIC2018, PH2, Kvasir, and BUSI
+
 <div align="center">
 <img src="Test/Figs/comparative_table.png" />
 </div>
+
+-The qualitative comparisons with nine representative advanced methods on ISIC2017, ISIC2018, PH2, Kvasir, and BUSI
 
 <div align="center">
 <img src="Test/Figs/comparative.png.png" />
 </div>
 
+-The qualitative comparison on ISIC2017, ISIC2018, PH2, Kvasir, and BUSI where red lines are the ground truth boundaries and blue lines are the predicted boundaries
+
 <div align="center">
 <img src="Test/Figs/line.png" />
 </div>
+
+-The loss, accuracy, dsc, and miou curves on five datasets
 
 <div align="center">
 <img src="Test/Figs/curve.png" />
