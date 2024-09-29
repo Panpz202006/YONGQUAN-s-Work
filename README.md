@@ -1,4 +1,4 @@
-# LCENet
+# LCANet
 
 👋 [GitHub Repo stars: [https://github.com/Panpz202006/YONGQUAN-s-Work/tree/main](https://github.com/Panpz202006/YONGQUAN-s-Work/tree/main)]
 
@@ -35,7 +35,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 - Folder organization: put ISIC2017 datasets into ./data/ISIC2017 folder, ISIC2018 datasets into ./data/ISIC2018 folder, and PH2 datasets into ./data/PH2 folder, Kvasir datasets into ./data/Kvasir folder, and BUSI datasets into ./data/BUSI folder.
   
-## 5. Train the LCENet:
+## 5. Train the LCANet:
 
 ```
 python train.py --datasets ISIC2018
@@ -44,7 +44,7 @@ pre-training file is saved to ./checkpoints/ISIC2018/best.pth
 concrete information see ./LCENet/train.py, please
 ```
 
-## 6. Test the LCENet:
+## 6. Test the LCANet:
 
 ```
 python test.py --datasets ISIC2018
